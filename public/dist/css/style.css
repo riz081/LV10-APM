@@ -1,0 +1,16 @@
+.report{
+    font-family: 'Times New Roman', Times, serif;
+}
+.h-report{
+    font-size: 16pt;
+    text-align: center;
+    font-weight: bold;
+}
+
+.h-report-detail{
+    font-size: 10pt;
+    text-align: center;
+}
+.table-report{
+    padding: 0px;
+}
